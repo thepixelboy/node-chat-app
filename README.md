@@ -1,0 +1,2 @@
+#Real-Time Web Applications with Socket.io (Chat App)
+Repository for the Real-Time Web Applications with Socket.io (Chat App) project from The Complete Node.js Developer Course (3rd Edition) by Andrew Mead on Udemy.
